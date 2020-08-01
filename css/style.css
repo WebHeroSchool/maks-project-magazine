@@ -1,0 +1,20 @@
+.longboat {
+   color: #8c8d8f;
+   font-size: 50px;
+   width: 100%;
+   margin: 0px;
+}
+
+h1 {
+   font-size: 150px;
+   width: 100%;
+   margin: 0px;
+}
+
+aside {
+   width: 200px;
+}
+
+main {
+   width: 600px;
+}
