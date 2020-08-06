@@ -5,10 +5,11 @@
    margin: 0px;
 }
 
-h1 {
-   font-size: 150px;
+h1 article {
+   font-size: 100px;
    width: 100%;
    margin: 0px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 
